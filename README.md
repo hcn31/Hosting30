@@ -13,7 +13,7 @@ Before you begin, ensure you have the following software installed on your machi
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/hcn31/Projet-React-Native.git
+git clone https://github.com/hcn31/Hosting30.git
 ```
 2. install the dependencies
 
