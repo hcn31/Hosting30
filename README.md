@@ -39,5 +39,14 @@ in react native project to start the project run the command:
 npm start
 ```
 
+## Application Mockups
+
+Below are the mockups or wireframes representing the design of the application:
 
 
+### Login
+
+
+
+
+![WC](https://github.com/hcn31/Hosting30/assets/100621841/59661f13-e903-48ac-aa4b-c84161422c74)
