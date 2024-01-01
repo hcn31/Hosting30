@@ -50,29 +50,32 @@ Below are the mockups or wireframes representing the design of the application:
 <img src="https://github.com/hcn31/Hosting30/assets/100621841/5aa4d187-7f42-4c8f-b1c8-4a56aa6548be" width="400" />
 
 ### Explore screen
-![Explore](https://github.com/hcn31/Hosting30/assets/100621841/f6a494ad-461b-4d9a-8391-1184fa43c40e)
+<img src="https://github.com/hcn31/Hosting30/assets/100621841/f6a494ad-461b-4d9a-8391-1184fa43c40e" width="400" />
 
 ### Favoris screen
-![Favoris](https://github.com/hcn31/Hosting30/assets/100621841/3ebe9b29-c375-489c-af41-80317bc6238a)
+<img src="https://github.com/hcn31/Hosting30/assets/100621841/3ebe9b29-c375-489c-af41-80317bc6238a" width="400" />
 
 ### Landing page (to reseve) screen
-![Landing page](https://github.com/hcn31/Hosting30/assets/100621841/b54be899-6f85-49fd-99a1-b5ded6f21c06)
+<img src="https://github.com/hcn31/Hosting30/assets/100621841/b54be899-6f85-49fd-99a1-b5ded6f21c06" width="400" />
 
 ### Map screen
-![Map](https://github.com/hcn31/Hosting30/assets/100621841/8f96330f-6d3a-4c96-a0e3-41ccc9348ed1)
+<img src="https://github.com/hcn31/Hosting30/assets/100621841/8f96330f-6d3a-4c96-a0e3-41ccc9348ed1" width="400" />
 
 ### Profil screen
-![Profil](https://github.com/hcn31/Hosting30/assets/100621841/2b0ef8e7-4818-4d6a-99b2-51c5e7f378fb)
+<img src="https://github.com/hcn31/Hosting30/assets/100621841/2b0ef8e7-4818-4d6a-99b2-51c5e7f378fb" width="400" />
 
 ### Reservations screen
-![Reservations](https://github.com/hcn31/Hosting30/assets/100621841/01edec39-dc2b-4421-826b-9d3b01ae6194)
+<img src="https://github.com/hcn31/Hosting30/assets/100621841/01edec39-dc2b-4421-826b-9d3b01ae6194" width="400" />
 
 ### Landing page (to cancel the reservation) screen
-![Landing page-1](https://github.com/hcn31/Hosting30/assets/100621841/f198018e-1068-4871-bd07-fbd19aad7125)
+<img src="https://github.com/hcn31/Hosting30/assets/100621841/f198018e-1068-4871-bd07-fbd19aad7125" width="400" />
 
 ### Add offer screens
-![Add offer-1](https://github.com/hcn31/Hosting30/assets/100621841/5479cd5d-106d-4268-b3e7-ff2f569c4efc)
-![Add offer-2](https://github.com/hcn31/Hosting30/assets/100621841/9b45d4a8-6b3a-43c8-88f3-c51bb5556436)
-![Add offer-3](https://github.com/hcn31/Hosting30/assets/100621841/a97ab9de-42b6-460d-ad81-711489cef3b4)
-![Add offer-4](https://github.com/hcn31/Hosting30/assets/100621841/fbe21faa-c7e9-4cd4-82ad-8229e9bdb3da)
+<img src="https://github.com/hcn31/Hosting30/assets/100621841/5479cd5d-106d-4268-b3e7-ff2f569c4efc" width="400" />
+<img src="https://github.com/hcn31/Hosting30/assets/100621841/9b45d4a8-6b3a-43c8-88f3-c51bb5556436" width="400" />
+<img src="https://github.com/hcn31/Hosting30/assets/100621841/a97ab9de-42b6-460d-ad81-711489cef3b4" width="400" />
+<img src="https://github.com/hcn31/Hosting30/assets/100621841/fbe21faa-c7e9-4cd4-82ad-8229e9bdb3da" width="400" />
+
+
+Thank YOU <3
 
