@@ -1,4 +1,4 @@
-# Projet-React-Native
+# Hosting30
 This repository contains a sample React Native project that communicates with an Express backend and MongoDB, both running in Docker containers.
 
 ## Prerequisites
