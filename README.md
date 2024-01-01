@@ -45,7 +45,7 @@ Below are the mockups or wireframes representing the design of the application:
 
 
 ### Login screens
-<img src="https://github.com/hcn31/Hosting30/assets/100621841/d6767c27-0dd2-4ecb-a8ae-bc5f4196b31e" width="40" />
+<img src="https://github.com/hcn31/Hosting30/assets/100621841/d6767c27-0dd2-4ecb-a8ae-bc5f4196b31e" width="400" />
 
 
 
