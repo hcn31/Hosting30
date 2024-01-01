@@ -21,7 +21,7 @@ then go to the react native project on the root run the command to install the d
 ```bash
 npm install
 ```
-3. set up the docker enironment
+3. set up the docker environment
 
 go into the express project in the root run the following commands:
 ```bash
