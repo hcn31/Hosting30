@@ -32,6 +32,8 @@ Please check in docker that the containers are set up and running correctly
 
 
 4. run the app
+
+
 in react native project to start the project run the command:
 ```bash
 npm start
